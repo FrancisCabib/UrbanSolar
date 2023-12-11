@@ -1,0 +1,672 @@
+# Copyright (C) 2023 OceanWP
+# This file is distributed under the same license as the Ocean Hooks plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Hooks 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-hooks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-06T04:45:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ocean-hooks\n"
+
+#. Plugin Name of the plugin
+msgid "Ocean Hooks"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-hooks/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage and apply various display conditional logic to your custom templates or custom PHP codes. Display everything where you want and how you want effortlessly using the straightforward interface and options."
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr ""
+
+#: ocean-hooks.php:362
+msgid "Default"
+msgstr ""
+
+#: ocean-hooks.php:363
+msgid "PHP Code"
+msgstr ""
+
+#: ocean-hooks.php:365
+msgid "Add New"
+msgstr ""
+
+#: ocean-hooks.php:434
+#: ocean-hooks.php:1866
+#: ocean-hooks.php:1867
+msgid "Hooks"
+msgstr ""
+
+#: ocean-hooks.php:444
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:69
+msgid "Activate Hook?"
+msgstr ""
+
+#: ocean-hooks.php:445
+msgid "Activate this item as a hook to use in various area of the theme."
+msgstr ""
+
+#: ocean-hooks.php:447
+#: ocean-hooks.php:509
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:82
+#: src/metabox/index.js:149
+msgid "Enable"
+msgstr ""
+
+#: ocean-hooks.php:448
+#: ocean-hooks.php:510
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:95
+#: src/metabox/index.js:162
+msgid "Disable"
+msgstr ""
+
+#: ocean-hooks.php:466
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:106
+msgid "Location"
+msgstr ""
+
+#: ocean-hooks.php:467
+msgid "Choose your hook location."
+msgstr ""
+
+#: ocean-hooks.php:484
+#: ocean-hooks.php:2152
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:120
+msgid "Priority"
+msgstr ""
+
+#: ocean-hooks.php:485
+msgid "Add a priority for your hook."
+msgstr ""
+
+#: ocean-hooks.php:506
+#: ocean-hooks.php:2158
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:136
+msgid "Enable PHP"
+msgstr ""
+
+#: ocean-hooks.php:507
+msgid "Enable PHP for this hook."
+msgstr ""
+
+#: ocean-hooks.php:528
+#: ocean-hooks.php:2164
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:169
+msgid "Conditional Logic"
+msgstr ""
+
+#: ocean-hooks.php:529
+msgid "Enable Conditional Logic for this hook."
+msgstr ""
+
+#: ocean-hooks.php:545
+#: ocean-hooks.php:2171
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:202
+msgid "User Roles"
+msgstr ""
+
+#: ocean-hooks.php:546
+msgid "Enable User Roles validation for this hook."
+msgstr ""
+
+#: ocean-hooks.php:577
+msgid "--Select--"
+msgstr ""
+
+#: ocean-hooks.php:603
+#: ocean-hooks.php:671
+#: ocean-hooks.php:1908
+#: ocean-hooks.php:1942
+#: assets/dist/metabox.js:1
+#: src/metabox/controls/repeator-select/index.js:58
+#: src/metabox/controls/repeator-select/index.js:108
+msgid "Please Select"
+msgstr ""
+
+#: ocean-hooks.php:715
+#: ocean-hooks.php:721
+#: ocean-hooks.php:730
+#: ocean-hooks.php:2191
+#: ocean-hooks.php:2203
+#: ocean-hooks.php:2217
+msgid "Show on"
+msgstr ""
+
+#: ocean-hooks.php:726
+#: ocean-hooks.php:749
+#: ocean-hooks.php:786
+#: ocean-hooks.php:2210
+#: ocean-hooks.php:2245
+#: ocean-hooks.php:2289
+msgid "Add new row"
+msgstr ""
+
+#: ocean-hooks.php:737
+#: ocean-hooks.php:744
+#: ocean-hooks.php:754
+#: ocean-hooks.php:2227
+#: ocean-hooks.php:2238
+#: ocean-hooks.php:2250
+msgid "Hide on"
+msgstr ""
+
+#: ocean-hooks.php:774
+#: ocean-hooks.php:781
+#: ocean-hooks.php:791
+#: ocean-hooks.php:2270
+#: ocean-hooks.php:2282
+#: ocean-hooks.php:2294
+msgid "Show if"
+msgstr ""
+
+#: ocean-hooks.php:1331
+msgid "Product Category"
+msgstr ""
+
+#: ocean-hooks.php:1333
+msgid "Product Tag"
+msgstr ""
+
+#: ocean-hooks.php:1335
+msgid "Single Product"
+msgstr ""
+
+#: ocean-hooks.php:1387
+msgid "All Pages"
+msgstr ""
+
+#: ocean-hooks.php:1388
+msgid "Home Page ( is_home() )"
+msgstr ""
+
+#: ocean-hooks.php:1389
+msgid "Front Page ( is_front_page() )"
+msgstr ""
+
+#: ocean-hooks.php:1399
+msgid "Single Post"
+msgstr ""
+
+#: ocean-hooks.php:1400
+msgid "Category Page"
+msgstr ""
+
+#: ocean-hooks.php:1401
+msgid "Archive Page"
+msgstr ""
+
+#: ocean-hooks.php:1402
+msgid "Logged In User"
+msgstr ""
+
+#: ocean-hooks.php:1403
+msgid "Logged Out User"
+msgstr ""
+
+#: ocean-hooks.php:1423
+msgid "WP Head"
+msgstr ""
+
+#: ocean-hooks.php:1427
+msgid "Before Top Bar"
+msgstr ""
+
+#: ocean-hooks.php:1431
+msgid "Before Top Bar Inner"
+msgstr ""
+
+#: ocean-hooks.php:1435
+msgid "After Top Bar Inner"
+msgstr ""
+
+#: ocean-hooks.php:1439
+msgid "After Top Bar"
+msgstr ""
+
+#: ocean-hooks.php:1443
+msgid "Before Header"
+msgstr ""
+
+#: ocean-hooks.php:1447
+msgid "Before Header Inner"
+msgstr ""
+
+#: ocean-hooks.php:1451
+msgid "Before Logo"
+msgstr ""
+
+#: ocean-hooks.php:1455
+msgid "Before Logo Inner"
+msgstr ""
+
+#: ocean-hooks.php:1459
+msgid "After Logo Inner"
+msgstr ""
+
+#: ocean-hooks.php:1463
+msgid "After Logo"
+msgstr ""
+
+#: ocean-hooks.php:1467
+msgid "Before Navigation"
+msgstr ""
+
+#: ocean-hooks.php:1471
+msgid "Before Navigation Inner"
+msgstr ""
+
+#: ocean-hooks.php:1475
+msgid "After Navigation Inner"
+msgstr ""
+
+#: ocean-hooks.php:1479
+msgid "After Navigation"
+msgstr ""
+
+#: ocean-hooks.php:1483
+msgid "After Header Inner"
+msgstr ""
+
+#: ocean-hooks.php:1487
+msgid "After Header"
+msgstr ""
+
+#: ocean-hooks.php:1491
+msgid "Before Page Header"
+msgstr ""
+
+#: ocean-hooks.php:1495
+msgid "Before Page Header Inner"
+msgstr ""
+
+#: ocean-hooks.php:1499
+msgid "After Page Header Inner"
+msgstr ""
+
+#: ocean-hooks.php:1503
+msgid "After Page Header"
+msgstr ""
+
+#: ocean-hooks.php:1507
+msgid "Before Outer Wrap Content"
+msgstr ""
+
+#: ocean-hooks.php:1511
+#: ocean-hooks.php:1515
+msgid "Before Wrap Content"
+msgstr ""
+
+#: ocean-hooks.php:1519
+msgid "Before Content Wrap"
+msgstr ""
+
+#: ocean-hooks.php:1523
+msgid "Before Primary Content"
+msgstr ""
+
+#: ocean-hooks.php:1527
+msgid "Before Content"
+msgstr ""
+
+#: ocean-hooks.php:1531
+msgid "Before Content Inner"
+msgstr ""
+
+#: ocean-hooks.php:1535
+msgid "Before Page Entry"
+msgstr ""
+
+#: ocean-hooks.php:1539
+msgid "Before Blog Entry Title"
+msgstr ""
+
+#: ocean-hooks.php:1543
+msgid "After Blog Entry Title"
+msgstr ""
+
+#: ocean-hooks.php:1547
+msgid "Before Blog Entry Meta"
+msgstr ""
+
+#: ocean-hooks.php:1551
+msgid "After Blog Entry Meta"
+msgstr ""
+
+#: ocean-hooks.php:1555
+msgid "Before Blog Entry Content"
+msgstr ""
+
+#: ocean-hooks.php:1559
+msgid "After Blog Entry Content"
+msgstr ""
+
+#: ocean-hooks.php:1563
+msgid "Before Blog Entry Read More"
+msgstr ""
+
+#: ocean-hooks.php:1567
+msgid "After Blog Entry Read More"
+msgstr ""
+
+#: ocean-hooks.php:1571
+msgid "Before Single Post Title"
+msgstr ""
+
+#: ocean-hooks.php:1575
+msgid "After Single Post Title"
+msgstr ""
+
+#: ocean-hooks.php:1579
+msgid "Before Single Post Meta"
+msgstr ""
+
+#: ocean-hooks.php:1583
+msgid "After Single Post Meta"
+msgstr ""
+
+#: ocean-hooks.php:1587
+msgid "Before Single Post Content"
+msgstr ""
+
+#: ocean-hooks.php:1591
+msgid "After Single Post Content"
+msgstr ""
+
+#: ocean-hooks.php:1595
+msgid "Before Single Post Author Bio"
+msgstr ""
+
+#: ocean-hooks.php:1599
+msgid "After Single Post Author Bio"
+msgstr ""
+
+#: ocean-hooks.php:1603
+msgid "Before Single Post Next/Prev Links"
+msgstr ""
+
+#: ocean-hooks.php:1607
+msgid "After Single Post Next/Prev Links"
+msgstr ""
+
+#: ocean-hooks.php:1611
+msgid "Before Single Post Related Posts"
+msgstr ""
+
+#: ocean-hooks.php:1615
+msgid "After Single Post Related Posts"
+msgstr ""
+
+#: ocean-hooks.php:1619
+msgid "After Content Inner"
+msgstr ""
+
+#: ocean-hooks.php:1623
+msgid "After Content"
+msgstr ""
+
+#: ocean-hooks.php:1627
+msgid "After Primary Content"
+msgstr ""
+
+#: ocean-hooks.php:1631
+msgid "Before Sidebar"
+msgstr ""
+
+#: ocean-hooks.php:1635
+msgid "Before Sidebar Inner"
+msgstr ""
+
+#: ocean-hooks.php:1639
+msgid "After Sidebar Inner"
+msgstr ""
+
+#: ocean-hooks.php:1643
+msgid "After Sidebar"
+msgstr ""
+
+#: ocean-hooks.php:1647
+msgid "After Page Entry"
+msgstr ""
+
+#: ocean-hooks.php:1651
+msgid "After Content Wrap"
+msgstr ""
+
+#: ocean-hooks.php:1655
+msgid "After Main Content"
+msgstr ""
+
+#: ocean-hooks.php:1659
+msgid "After Wrap Content"
+msgstr ""
+
+#: ocean-hooks.php:1663
+msgid "After Outer Wrap Content"
+msgstr ""
+
+#: ocean-hooks.php:1667
+msgid "Before Footer"
+msgstr ""
+
+#: ocean-hooks.php:1671
+msgid "Before Footer Inner"
+msgstr ""
+
+#: ocean-hooks.php:1675
+msgid "Before Footer Widgets"
+msgstr ""
+
+#: ocean-hooks.php:1679
+msgid "Before Footer Widgets Inner"
+msgstr ""
+
+#: ocean-hooks.php:1683
+msgid "After Footer Widgets Inner"
+msgstr ""
+
+#: ocean-hooks.php:1687
+msgid "After Footer Widgets"
+msgstr ""
+
+#: ocean-hooks.php:1691
+msgid "Before Footer Bottom"
+msgstr ""
+
+#: ocean-hooks.php:1695
+msgid "Before Footer Bottom Inner"
+msgstr ""
+
+#: ocean-hooks.php:1699
+msgid "After Footer Bottom Inner"
+msgstr ""
+
+#: ocean-hooks.php:1703
+msgid "After Footer Bottom"
+msgstr ""
+
+#: ocean-hooks.php:1707
+msgid "After Footer Inner"
+msgstr ""
+
+#: ocean-hooks.php:1711
+msgid "After Footer"
+msgstr ""
+
+#: ocean-hooks.php:1715
+msgid "WP Footer"
+msgstr ""
+
+#: ocean-hooks.php:1723
+msgid "Before Archive Product Item"
+msgstr ""
+
+#: ocean-hooks.php:1727
+msgid "Before Archive Product Image"
+msgstr ""
+
+#: ocean-hooks.php:1731
+msgid "After Archive Product Image"
+msgstr ""
+
+#: ocean-hooks.php:1735
+msgid "Before Archive Product Categories"
+msgstr ""
+
+#: ocean-hooks.php:1739
+msgid "After Archive Product Categories"
+msgstr ""
+
+#: ocean-hooks.php:1743
+msgid "Before Archive Product Title"
+msgstr ""
+
+#: ocean-hooks.php:1747
+msgid "After Archive Product Title"
+msgstr ""
+
+#: ocean-hooks.php:1751
+msgid "Before Archive Product Price & Rating"
+msgstr ""
+
+#: ocean-hooks.php:1755
+msgid "After Archive Product Price & Rating"
+msgstr ""
+
+#: ocean-hooks.php:1759
+msgid "Before Archive Product Description"
+msgstr ""
+
+#: ocean-hooks.php:1763
+msgid "After Archive Product Description"
+msgstr ""
+
+#: ocean-hooks.php:1767
+msgid "Before Archive Product Add To Cart"
+msgstr ""
+
+#: ocean-hooks.php:1771
+msgid "After Archive Product Add To Cart"
+msgstr ""
+
+#: ocean-hooks.php:1775
+msgid "After Archive Product Item"
+msgstr ""
+
+#: ocean-hooks.php:1779
+msgid "Before Single Product Title"
+msgstr ""
+
+#: ocean-hooks.php:1783
+msgid "After Single Product Title"
+msgstr ""
+
+#: ocean-hooks.php:1787
+msgid "Before Single Product Rating"
+msgstr ""
+
+#: ocean-hooks.php:1791
+msgid "After Single Product Rating"
+msgstr ""
+
+#: ocean-hooks.php:1795
+msgid "Before Single Product Price"
+msgstr ""
+
+#: ocean-hooks.php:1799
+msgid "After Single Product Price"
+msgstr ""
+
+#: ocean-hooks.php:1803
+msgid "Before Single Product Excerpt"
+msgstr ""
+
+#: ocean-hooks.php:1807
+msgid "After Single Product Excerpt"
+msgstr ""
+
+#: ocean-hooks.php:1811
+msgid "Before Single Product Add To Cart"
+msgstr ""
+
+#: ocean-hooks.php:1815
+msgid "After Single Product Add To Cart"
+msgstr ""
+
+#: ocean-hooks.php:1819
+msgid "Before Single Product Meta"
+msgstr ""
+
+#: ocean-hooks.php:1823
+msgid "After Single Product Meta"
+msgstr ""
+
+#: ocean-hooks.php:2085
+msgid "Since the latest version of Ocean Hooks, the plugin has been improved, from now, the hooks need to be added via %1$sTheme Panel > My Library%2$s, create a new item, click the Hooks tab in OceanWP Settings to activate the item as hook and choose your location. If you have hooks already added, just copy them in the My Library post type. This page will be removed in a future release so if you do not export your hooks, there will be lost. Thank you for your understanding."
+msgstr ""
+
+#: ocean-hooks.php:2317
+msgid "OceanWP Hooks"
+msgstr ""
+
+#: ocean-hooks.php:2321
+msgid "Use these fields to insert anything you like throughout OceanWP. Shortcodes are allowed, and PHP if you check the Enable PHP checkboxes."
+msgstr ""
+
+#: ocean-hooks.php:2324
+msgid "Show all"
+msgstr ""
+
+#: ocean-hooks.php:2345
+msgid "Save Hooks"
+msgstr ""
+
+#: ocean-hooks.php:2508
+msgid "Show Hooks"
+msgstr ""
+
+#: ocean-hooks.php:2524
+msgid "Hide Hooks"
+msgstr ""
+
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:46
+msgid "Select"
+msgstr ""
+
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:188
+msgid "Display On"
+msgstr ""
+
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:196
+msgid "Hide On"
+msgstr ""
+
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:220
+msgid "Show If"
+msgstr ""

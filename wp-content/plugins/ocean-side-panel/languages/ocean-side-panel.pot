@@ -1,0 +1,268 @@
+# Copyright (C) 2023 OceanWP
+# This file is distributed under the same license as the Ocean Side Panel plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Side Panel 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-side-panel\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-06T05:37:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ocean-side-panel\n"
+
+#. Plugin Name of the plugin
+msgid "Ocean Side Panel"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-side-panel/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add a responsive side panel with your preferred widgets inside."
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr ""
+
+#: includes/customizer-helpers.php:9
+msgid "Select"
+msgstr ""
+
+#: ocean-side-panel.php:250
+msgid "Side Panel Sidebar"
+msgstr ""
+
+#: ocean-side-panel.php:252
+msgid "Widgets in this area are used in the side panel."
+msgstr ""
+
+#: ocean-side-panel.php:292
+#: ocean-side-panel.php:1309
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:33
+msgid "Side Panel"
+msgstr ""
+
+#: ocean-side-panel.php:313
+msgid "Opening Button Position"
+msgstr ""
+
+#: ocean-side-panel.php:319
+msgid "Inside the main menu"
+msgstr ""
+
+#: ocean-side-panel.php:320
+msgid "Beside the panel"
+msgstr ""
+
+#: ocean-side-panel.php:321
+msgid "Manual Position"
+msgstr ""
+
+#: ocean-side-panel.php:344
+msgid "Icon Size"
+msgstr ""
+
+#: ocean-side-panel.php:375
+msgid "Button: Background Color"
+msgstr ""
+
+#: ocean-side-panel.php:401
+msgid "Button: Color"
+msgstr ""
+
+#: ocean-side-panel.php:427
+msgid "Button: Border Color"
+msgstr ""
+
+#: ocean-side-panel.php:452
+#: ocean-side-panel.php:610
+msgid "Opening Button: Color"
+msgstr ""
+
+#: ocean-side-panel.php:477
+msgid "Opening Button: Hover Color"
+msgstr ""
+
+#: ocean-side-panel.php:528
+msgid "Opening Button Text"
+msgstr ""
+
+#: ocean-side-panel.php:554
+msgid "Text Position"
+msgstr ""
+
+#: ocean-side-panel.php:560
+msgid "Before Icon"
+msgstr ""
+
+#: ocean-side-panel.php:561
+msgid "After Icon"
+msgstr ""
+
+#: ocean-side-panel.php:583
+msgid "Custom Opening Button"
+msgstr ""
+
+#: ocean-side-panel.php:635
+msgid "Breakpoints"
+msgstr ""
+
+#: ocean-side-panel.php:636
+msgid "Choose the media query where you want to hide the side panel."
+msgstr ""
+
+#: ocean-side-panel.php:642
+msgid "Never hide the side panel"
+msgstr ""
+
+#: ocean-side-panel.php:643
+msgid "From 1280px"
+msgstr ""
+
+#: ocean-side-panel.php:644
+msgid "From 1080px"
+msgstr ""
+
+#: ocean-side-panel.php:645
+msgid "From 959px"
+msgstr ""
+
+#: ocean-side-panel.php:646
+msgid "From 767px"
+msgstr ""
+
+#: ocean-side-panel.php:647
+msgid "From 480px"
+msgstr ""
+
+#: ocean-side-panel.php:648
+msgid "From 320px"
+msgstr ""
+
+#: ocean-side-panel.php:649
+msgid "Custom media query"
+msgstr ""
+
+#: ocean-side-panel.php:670
+msgid "Custom Media Query"
+msgstr ""
+
+#: ocean-side-panel.php:671
+msgid "Enter your custom media query where you want to hide the side panel."
+msgstr ""
+
+#: ocean-side-panel.php:701
+msgid "Display Close Button"
+msgstr ""
+
+#: ocean-side-panel.php:727
+msgid "Displace"
+msgstr ""
+
+#: ocean-side-panel.php:752
+msgid "Add Overlay"
+msgstr ""
+
+#: ocean-side-panel.php:777
+msgid "Panel Position"
+msgstr ""
+
+#: ocean-side-panel.php:782
+msgid "Right"
+msgstr ""
+
+#: ocean-side-panel.php:783
+msgid "Left"
+msgstr ""
+
+#: ocean-side-panel.php:844
+#: template/side-panel.php:19
+msgid "Close Panel"
+msgstr ""
+
+#: ocean-side-panel.php:855
+msgid "Close Button Text"
+msgstr ""
+
+#: ocean-side-panel.php:880
+msgid "Select Template"
+msgstr ""
+
+#: ocean-side-panel.php:881
+msgid "Choose a template created in Theme Panel > My Library to replace the content."
+msgstr ""
+
+#: ocean-side-panel.php:990
+msgid "Padding (px)"
+msgstr ""
+
+#: ocean-side-panel.php:1032
+msgid "Overlay Color"
+msgstr ""
+
+#: ocean-side-panel.php:1058
+msgid "Background Color"
+msgstr ""
+
+#: ocean-side-panel.php:1083
+msgid "Close Button Background"
+msgstr ""
+
+#: ocean-side-panel.php:1108
+msgid "Close Button Background: Hover"
+msgstr ""
+
+#: ocean-side-panel.php:1133
+msgid "Close Button Color"
+msgstr ""
+
+#: ocean-side-panel.php:1158
+msgid "Close Button Color: Hover"
+msgstr ""
+
+#: ocean-side-panel.php:1183
+msgid "Text Color"
+msgstr ""
+
+#: ocean-side-panel.php:1208
+msgid "Headings Color"
+msgstr ""
+
+#: ocean-side-panel.php:1233
+msgid "Links Color"
+msgstr ""
+
+#: ocean-side-panel.php:1258
+msgid "Links Color: Hover"
+msgstr ""
+
+#: ocean-side-panel.php:1283
+msgid "Widgets List Borders Color"
+msgstr ""
+
+#: ocean-side-panel.php:1310
+msgid "Disable the side panel on this page/post."
+msgstr ""
+
+#: ocean-side-panel.php:1312
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:46
+msgid "Default"
+msgstr ""
+
+#: ocean-side-panel.php:1313
+#: assets/dist/metabox.js:1
+#: src/metabox/index.js:59
+msgid "Disable"
+msgstr ""

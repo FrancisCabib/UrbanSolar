@@ -1,0 +1,299 @@
+# Copyright (C) 2023 OceanWP
+# This file is distributed under the same license as the Ocean Cookie Notice plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Cookie Notice 2.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocean-cookie-notice\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-06T05:46:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: ocean-cookie-notice\n"
+
+#. Plugin Name of the plugin
+msgid "Ocean Cookie Notice"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-cookie-notice/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add a Cookie notice on your website to inform users that you are using cookies to comply with the EU cookie law GDPR regulations."
+msgstr ""
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr ""
+
+#: ocean-cookie-notice.php:123
+msgid "An hour"
+msgstr ""
+
+#: ocean-cookie-notice.php:124
+#: ocean-cookie-notice.php:438
+msgid "1 day"
+msgstr ""
+
+#: ocean-cookie-notice.php:125
+msgid "1 week"
+msgstr ""
+
+#: ocean-cookie-notice.php:126
+msgid "1 month"
+msgstr ""
+
+#: ocean-cookie-notice.php:127
+msgid "3 months"
+msgstr ""
+
+#: ocean-cookie-notice.php:128
+msgid "6 months"
+msgstr ""
+
+#: ocean-cookie-notice.php:129
+msgid "1 year"
+msgstr ""
+
+#: ocean-cookie-notice.php:130
+msgid "infinity"
+msgstr ""
+
+#: ocean-cookie-notice.php:298
+#: ocean-cookie-notice.php:2070
+msgid "Cookie Notice"
+msgstr ""
+
+#: ocean-cookie-notice.php:310
+msgid "By continuing to use this website, you consent to the use of cookies in accordance with our Cookie Policy."
+msgstr ""
+
+#: ocean-cookie-notice.php:320
+msgid "Content"
+msgstr ""
+
+#: ocean-cookie-notice.php:344
+msgid "Close Target"
+msgstr ""
+
+#: ocean-cookie-notice.php:350
+msgid "Button"
+msgstr ""
+
+#: ocean-cookie-notice.php:351
+msgid "Close Icon"
+msgstr ""
+
+#: ocean-cookie-notice.php:364
+msgid "Accept"
+msgstr ""
+
+#: ocean-cookie-notice.php:374
+msgid "Button Text"
+msgstr ""
+
+#: ocean-cookie-notice.php:401
+msgid "Style"
+msgstr ""
+
+#: ocean-cookie-notice.php:407
+msgid "Fly-Ins"
+msgstr ""
+
+#: ocean-cookie-notice.php:408
+msgid "Floating Bar"
+msgstr ""
+
+#: ocean-cookie-notice.php:431
+msgid "Cookie Expiry"
+msgstr ""
+
+#: ocean-cookie-notice.php:437
+msgid "An Hour"
+msgstr ""
+
+#: ocean-cookie-notice.php:439
+msgid "1 Week"
+msgstr ""
+
+#: ocean-cookie-notice.php:440
+msgid "1 Month"
+msgstr ""
+
+#: ocean-cookie-notice.php:441
+msgid "3 Months"
+msgstr ""
+
+#: ocean-cookie-notice.php:442
+msgid "6 Months"
+msgstr ""
+
+#: ocean-cookie-notice.php:443
+msgid "1 Year"
+msgstr ""
+
+#: ocean-cookie-notice.php:444
+msgid "Infinity"
+msgstr ""
+
+#: ocean-cookie-notice.php:465
+msgid "Scripts"
+msgstr ""
+
+#: ocean-cookie-notice.php:488
+msgid "Head (before the closing head tag)"
+msgstr ""
+
+#: ocean-cookie-notice.php:489
+#: ocean-cookie-notice.php:514
+msgid "Add cookies JavaScript code here, they will be used after users consent."
+msgstr ""
+
+#: ocean-cookie-notice.php:513
+msgid "Body (before the closing body tag)"
+msgstr ""
+
+#: ocean-cookie-notice.php:539
+msgid "Reloading"
+msgstr ""
+
+#: ocean-cookie-notice.php:540
+msgid "Reload the page after the user consent."
+msgstr ""
+
+#: ocean-cookie-notice.php:545
+#: ocean-cookie-notice.php:575
+msgid "Yes"
+msgstr ""
+
+#: ocean-cookie-notice.php:546
+#: ocean-cookie-notice.php:576
+msgid "No"
+msgstr ""
+
+#: ocean-cookie-notice.php:569
+msgid "Display Overlay"
+msgstr ""
+
+#: ocean-cookie-notice.php:570
+msgid "Display an overlay to force the user to consent to your cookies policy."
+msgstr ""
+
+#: ocean-cookie-notice.php:597
+msgid "Styling: General"
+msgstr ""
+
+#: ocean-cookie-notice.php:620
+msgid "Max Width (px)"
+msgstr ""
+
+#: ocean-cookie-notice.php:728
+#: ocean-cookie-notice.php:1252
+msgid "Padding (px)"
+msgstr ""
+
+#: ocean-cookie-notice.php:771
+#: ocean-cookie-notice.php:1070
+msgid "Background Color"
+msgstr ""
+
+#: ocean-cookie-notice.php:795
+msgid "Border Width (px)"
+msgstr ""
+
+#: ocean-cookie-notice.php:825
+msgid "Border Style"
+msgstr ""
+
+#: ocean-cookie-notice.php:831
+msgid "None"
+msgstr ""
+
+#: ocean-cookie-notice.php:832
+msgid "Solid"
+msgstr ""
+
+#: ocean-cookie-notice.php:833
+msgid "Double"
+msgstr ""
+
+#: ocean-cookie-notice.php:834
+msgid "Dotted"
+msgstr ""
+
+#: ocean-cookie-notice.php:835
+msgid "Dashed"
+msgstr ""
+
+#: ocean-cookie-notice.php:836
+msgid "Groove"
+msgstr ""
+
+#: ocean-cookie-notice.php:858
+msgid "Border Color"
+msgstr ""
+
+#: ocean-cookie-notice.php:881
+msgid "Styling: Content"
+msgstr ""
+
+#: ocean-cookie-notice.php:905
+msgid "Text Color"
+msgstr ""
+
+#: ocean-cookie-notice.php:991
+#: ocean-cookie-notice.php:1478
+msgid "Font Size (px / em / rem)"
+msgstr ""
+
+#: ocean-cookie-notice.php:1006
+#: ocean-cookie-notice.php:1493
+msgid "Line Height (px / em / rem)"
+msgstr ""
+
+#: ocean-cookie-notice.php:1021
+#: ocean-cookie-notice.php:1508
+msgid "Letter Spacing (px / em / rem)"
+msgstr ""
+
+#: ocean-cookie-notice.php:1045
+msgid "Styling: Button"
+msgstr ""
+
+#: ocean-cookie-notice.php:1096
+#: ocean-cookie-notice.php:1557
+msgid "Color"
+msgstr ""
+
+#: ocean-cookie-notice.php:1122
+msgid "Hover: Background Color"
+msgstr ""
+
+#: ocean-cookie-notice.php:1148
+#: ocean-cookie-notice.php:1583
+msgid "Hover: Color"
+msgstr ""
+
+#: ocean-cookie-notice.php:1373
+msgid "Border Radius (px)"
+msgstr ""
+
+#: ocean-cookie-notice.php:1457
+msgid "Typography"
+msgstr ""
+
+#: ocean-cookie-notice.php:1532
+msgid "Styling: Close Icon"
+msgstr ""
+
+#: template/notice.php:43
+msgid "Close the cookie notice window"
+msgstr ""
